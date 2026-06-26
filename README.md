@@ -1,2 +1,2 @@
 # Open-WebUI
-notion
+see notion
